@@ -106,7 +106,7 @@ case 1:
         scanf("%d",&escolha3);
         if (escolha3 == 1)
         {
-           
+           int i=1;
             do
             {
                 int i=1;
@@ -118,6 +118,7 @@ case 1:
         }
         else if (escolha3 == 2)
         {
+            int i=1;
             do
             {
                 int i=1;
